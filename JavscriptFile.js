@@ -1,1 +1,1 @@
-alert("tu casa mi casa");
+alert("no estoy en tu casa");
